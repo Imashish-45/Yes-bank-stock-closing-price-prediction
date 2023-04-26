@@ -27,12 +27,12 @@ Close: refers to the final trading price for that month, which we have to predic
 Objective:
 
 The objective of this project is to predict the stock’s closing price of the month. Discussion of Yes Bank Dataset will involve various steps such as:
-Loading the data into data frame
-Cleaning the data
-Extracting statistics from the dataset
-Exploratory analysis and visualizations
-Train Test Split
-Linear Regression
-Lasso Regression
-Ridge Regression
-XGBoost Regression
+Loading the data into data frame, 
+Cleaning the data, 
+Extracting statistics from the dataset, 
+Exploratory analysis and visualizations, 
+Train Test Split, 
+Linear Regression, 
+Lasso Regression, 
+Ridge Regression, 
+XGBoost Regression, 
