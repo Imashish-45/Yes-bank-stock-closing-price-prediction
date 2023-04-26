@@ -24,7 +24,7 @@ Low: refers to the minimum price that month.
 Close: refers to the final trading price for that month, which we have to predict using regression technique.
 
 
-Objective:
+OBJECTIVE : 
 
 The objective of this project is to predict the stock’s closing price of the month. Discussion of Yes Bank Dataset will involve various steps such as:
 Loading the data into data frame, 
